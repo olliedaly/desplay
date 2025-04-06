@@ -36,3 +36,5 @@ Thumbs.db
 # Personal configuration
 config.toml.local
 .env
+desplay.txt
+example_C_code/
